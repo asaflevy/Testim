@@ -1,4 +1,4 @@
 Testim
 ======
 
-MyBlog
+My Testing Blog
